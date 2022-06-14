@@ -1,2 +1,1 @@
-# Employee-Wages
-employee wages computation
+# Employee Wages Computation
